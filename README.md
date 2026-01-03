@@ -1,6 +1,7 @@
 # 🎬 Fullstack Movie App
 ![Demo](movies.gif)
-# 📖 Overview
+
+# 📖 Overview
 The Fullstack Movie App is a comprehensive web application that allows users to explore, search, and manage a movie database. It bridges the gap between a responsive, interactive frontend and a robust, data-driven backend.
 
 This project demonstrates the implementation of a full development lifecycle, including RESTful API design, database CRUD operations, and dynamic UI rendering.
